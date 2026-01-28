@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<title>a winter traveler</title>
+
+<body>
+  <style>
+    body {
+      font-family: Verdana;
+      text-align: right
+    }
+  </style>
+  
+  <h1>
+    .winter
+  </h1>
+  
+  <audio src="https://upload.wikimedia.org/wikipedia/commons/b/bc/ASMR_Rushing_Water_White_Noise.webm" controls>
+  </audio>
+  
+  <a href="https://en.wikipedia.org/wiki/Winter" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Gamburg_Bahnhof_Schneechaos.jpg" width="400" align="right" alt="Snow in Werbach in January 2000"></a>
+
+  <p>
+    you are in a town that has long been abandoned. no trains inhabit the train tracks beside you, and the only sounds are the howls of the biting wind.
+  </p>
+  
+  <p>you do not know how you got here.</p>
+  
+  <hr>
+
+  <a href="https://dev.netnet.studio/#code/eJydUk2P1DAMvfdXmJ7ZZmA5DZ1KfAkJiQ/tIEZ7qpwmbTKTJlXiUirEfydJVwOH5UIPkZ8b+z2/uH7y9vObr/df3oGi0TRFTZqMbMJZ6P4chOtrtmWKouZOrE0BUAdaUwbil3LwM4cAvbN00+OozbqHb9ILtPjy4R/JH3SDRg92D14PinL+V2rHrv0SUs+2ztWiLUmfL2y5FOIstIPgu0OpiKawZ2yejEMRr1/0KIXGyvmBJTQlxDo3js4Gxhnv2Kvjx7v2bg5K26E9YezfnpQm2X5yOshqkXwsoYtjeGdCnpVlxis9KC/7P9zSVlemKy87ZeUlEPpB0qFsuUF7KZtaj8N/ab9lt8je48hnP7SvUVnl+vbYKStlp9CF6jwNJSxakDqUL3a7ErLThzI7nVBUcbRuAW3hJD3HTqXwA9oZ/QrPd7GmibPGZ45TTtsLrG4GITstJJCDBc0lNnJ2AFIx4zE2iGd3CU/BSPweLQUuo7MCnDVrKvdxJRxNPvoREl8qDFFGlSM5TrSCcnOQASYMAfhaZc+n6zL4TRE2NZ+JnG1yUc0eUJb817s84vm/64oI00r/Bqcs+7c="><button>snow</button></a>
+  <a href="https://dev.netnet.studio/#code/eJydU02P0zAQvfdXDDl344XltKSR+BISEh/aRVScqkkyiU0dO7InWyLEf2fs7BaE4EJPfpOZ9958tHr06sPLT18+vgbNo603FRu2VCOcjGMKwAHvyFKo1Pphs6ka3y31BqCKvKQIyC/F4Ht+AvTe8UWPo7HLNXym0KHDZ/ffmL7xBVozuGsIZtCc4z8SnTrzJaQfr8zlaiQnrLH0xLkzHmJod4VmnuK1UvNkPXaSfjQjdQZLHwaV0JSQav04ehdVo5pWPb99d3O4maM2bjjsUfgPe22YDu+9iVSeqBkLaKWN4G3MvaqseJYHHaj/pU2uPCudddU+Oy+AMQzEu+LQWHTHoq7MOPyX9yt1heoNjs0chsML1E77/nDbakfUavSx/DoNhWyuY70rnl5eFpAnvSvypBMSF7fOn8A42FNosNXp+RbdjGGBJ5dSU0uvsmbpclo3sPgZIqPrYKLQU8t2EWys3Qqh9bKfAVhTupgO2MOd8ZZcyiI3zLZPBCUgQ/QjweRlKtu1II0c4nGBHjuKqVYm1B6FV5iSbIsOIlHOFgshlnkX08Me7h1KCznjuKxGY4YYWk1hC9pEuc8TTLO11EGTFQKhXKwoRu09l9BQ7wOBlAU5d4z0wBH8aZvCPAeXLSZfyV+U+6Y/Demwjg7rqpmZvatpnHip1D3Ks/3tgP5yHP+u2whM/72fpMU2Dw=="><button>stars</button></a>
+  
+  <p style="font-size: 12px;">choose a path.</p>
+
+</body>
